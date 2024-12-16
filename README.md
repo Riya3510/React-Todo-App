@@ -21,8 +21,4 @@ This is a simple To-Do app built using **React.js**, **HTML**, **CSS**, and **Ta
 
 
 
-### 1. Clone the repository
 
-```bash
-git clone https://github.com/your-username/todo-app.git
-cd todo-app
